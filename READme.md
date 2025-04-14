@@ -7,7 +7,7 @@ Website untuk **Mangkara Globalindo**, sebuah startup yang fokus pada ekspor pro
 Website ini dibangun dengan beberapa bagian utama sebagai berikut:
 
 ### 1. Home Page
-![Mangkara Logo](Assets/Home_Page.png)
+![Mangkara](Assets/Home_Page.png)
 Halaman utama website yang mencakup:
 - **Home**: Halaman depan yang memperkenalkan Mangkara Globalindo.
 - **About Us**: Deskripsi mengenai perusahaan dan visi kami.
