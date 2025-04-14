@@ -7,7 +7,7 @@ Website untuk **Mangkara Globalindo**, sebuah startup yang fokus pada ekspor pro
 Website ini dibangun dengan beberapa bagian utama sebagai berikut:
 
 ### 1. Home Page
-![Mangkara Logo](assets/Home_Page.png)
+![Mangkara Logo](Assets/Home_Page.png)
 Halaman utama website yang mencakup:
 - **Home**: Halaman depan yang memperkenalkan Mangkara Globalindo.
 - **About Us**: Deskripsi mengenai perusahaan dan visi kami.
@@ -17,14 +17,14 @@ Halaman utama website yang mencakup:
 - **Get In Touch**: Formulir untuk menghubungi kami.
 
 ### 2. Organic Coconut Sugar
-![Gula Kelapa](assets/Organic_Coconut_Sugar.png)
+![Gula Kelapa](Assets/Organic_Coconut_Sugar.png)
 Halaman khusus untuk menjelaskan **Gula Kelapa Organik**:
 - Penjelasan detail mengenai proses pembuatan gula kelapa organik.
 - Keunggulan dan manfaat dari gula kelapa organik.
 - Informasi harga dan cara pemesanan.
 
 ### 3. Coconut Fibre
-![Coconut Fiber](assets/Coconut_Fiber.png)
+![Coconut Fiber](Assets/Coconut_Fiber.png)
 Halaman khusus untuk menjelaskan **Coconut Fibre**:
 - Detail mengenai produk serat kelapa.
 - Manfaat penggunaan coconut fibre untuk berbagai aplikasi.
